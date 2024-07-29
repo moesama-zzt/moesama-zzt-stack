@@ -1,0 +1,1 @@
+LSM树（Log-Structured Merge Tree）是一种专门针对大量写操作做了适用于大规模数据处理系统，NoSQL数据库（RocksDB）。
